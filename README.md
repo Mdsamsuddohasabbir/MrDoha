@@ -1,1 +1,3 @@
 # MrDoha
+cd
+doha.py
